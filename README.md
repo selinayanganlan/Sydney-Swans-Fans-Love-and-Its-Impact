@@ -3,4 +3,4 @@ Provided recommendations on how to improve [Sydney Swans](https://www.sydneyswan
 - Logit Model
 - Random Forests
 - Gradient Boosting
-- SVM
+- Support Vector Machines (SVM)
